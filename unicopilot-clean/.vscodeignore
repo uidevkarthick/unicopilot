@@ -1,0 +1,14 @@
+**/.gitignore
+**/.eslintrc.json
+**/tsconfig.json
+**/.vscode/**
+**/src/**
+**/test/**
+**/tests/**
+**/*.ts
+**/*.map
+**/node_modules/**
+**/.DS_Store
+**/Thumbs.db
+**/*.tmp
+**/*.log
